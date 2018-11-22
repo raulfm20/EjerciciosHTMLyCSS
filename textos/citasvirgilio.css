@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Teko:500|Ultra');
+@font-face {
+font-family: "just another hand";
+src:url(Objetos-Textos-ParaEjerciciosTexto/fuentes/just-another-hand.woff2);
+}
+    body{
+        background-color: #eeccaa
+    }
+    h1{
+        font-family:'ultra';
+        text-align:center;
+        font-size: 3rem;
+        letter-spacing:1.5rem;
+        text-transform:uppercase;
+    }
+
+    p.intro{
+        text-align:justify;
+        margin-left:30%;
+        margin-right:30%;
+        font-family: "Open Sans",sans-serif;
+        line-height:200%;
+    }
+    .latin{
+        margin:0;
+        font-family: "Permanent Maker", cursive;
+        font-size:2.5rem;
+        text-align:left;
+    }
+    .español{
+        margin:0 0 3rem;
+        color:white;
+        font-family:"Teko:500", sans-serif;
+        font-size: 3.5rem;
+        letter-spacing:1px;
+        text-align:right;
+    }
+    cite{
+        text-decoration:underline;
+    }
