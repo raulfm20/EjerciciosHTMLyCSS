@@ -1,0 +1,54 @@
+body{
+    background-color:aliceblue;
+    text-align:justify;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    background-color: cornflowerblue;
+    color:white;
+    text-align:center;
+}
+h2{
+    font-family:'Franklin Gothic Medium', Arial, sans-serif
+}
+figure{
+    margin-left:10px;
+    margin-right:10px;
+    border:solid cornflowerblue;
+    float:left
+}
+figcaption{
+    text-align:center;
+    font-size:1.25em;
+    font-family:italic;
+}
+strong{
+    color:blueviolet;
+    font-size:1.2em;
+}
+em{
+    color:blueviolet;
+    font-size:1.2em;    
+}
+a{
+    background-color: cornflowerblue;
+    color:white;
+    text-transform: capitalize;
+    font-size:1.5em;
+}
+div.raul{
+    text-align:center;
+    border:solid black;
+    background-color:white;
+    margin-left:25%;
+    margin-right:25%;
+    padding:1em;
+}
+div.imagenindex{
+text-align:center;
+float:left;
+border:solid 5px purple;
+background-color:whitesmoke;
+padding:1em;
+margin:0.5em;
+}

@@ -1,0 +1,15 @@
+body{
+    background-color:#89675B;
+    color:white;
+    text-align:center;
+    size:300%;
+}
+p{
+    text-align:justify
+}
+span.importante{
+    initial-letter: capitalize;
+}
+div{
+    text-align:left;
+}
